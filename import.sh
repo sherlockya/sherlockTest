@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-bin=/root/elasticsearch-jdbc-2.3.3.0/bin
+bin=/root/elasticsearch-jdbc-2.3.3.0/bin111
 lib=/root/elasticsearch-jdbc-2.3.3.0b
 tbname=("center_daycencus" "dengkai")
 for tb in ${tbname[*]}
